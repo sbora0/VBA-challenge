@@ -7,7 +7,7 @@ The script also does conditional formatting for Yearly change and Percent change
 For the bonus part, the script returns a stock with the Greatest % increase, Greatest % decrease and Greatest total volume.
 
 Files attached:
-1. VBA Script used for the assignment
+1. VBA Script used for the assignment in text format
 2. 2018 stock data output information screenshot
 3. 2019 stock data output information screenshot
 4. 2020 stock data output information screenshot
